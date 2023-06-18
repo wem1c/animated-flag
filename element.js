@@ -1,3 +1,5 @@
+// All credits to Josh Comeau for the original idea and implementation. I just made it into a web component.
+// https://www.joshwcomeau.com/animation/pride-flags/#pixel-rounding-quirk-9
 customElements.define('pride-flag', class extends HTMLElement {
     static get observedAttributes() { return ['columns', 'delay', 'billow', 'speed']; }
     connectedCallback(HSLcolors = [[0, 0, 18], [30, 60, 30], [0, 90, 55], [30, 95, 65], [55, 90, 65], [100, 65, 45], [220, 80, 55], [265, 80, 50]]) {
