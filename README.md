@@ -16,15 +16,11 @@
 
 - [ ] Add GH Page example
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -32,13 +28,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Conor C. Peterson - [@wem1c](https://social.linux.pizza/@wemic) - conorpetersondev at gmail dot com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 
 ## Credits
 
 - [Josh W. Comeau](https://www.joshwcomeau.com/) for creating the initial [Animated Pride Flag](https://www.joshwcomeau.com/animation/pride-flags/)
 - [Danny Engelman](https://dev.to/dannyengelman) for creating the [pride-flag component](https://dev.to/dannyengelman/web-component-19dl), which is an implementation of Josh's React component as a native web component.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
