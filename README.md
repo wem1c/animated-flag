@@ -14,7 +14,8 @@
 
 ## TODOs
 
-- [ ] Add GH Page example
+- [x] Add GH Page example
+- [ ] Add interactive examples to GH page
 
 <!-- LICENSE -->
 
