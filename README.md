@@ -12,6 +12,8 @@
 
 # &lt;animated-flag> web component
 
+Danny's [pride-flag](https://dev.to/dannyengelman/web-component-19dl) component expanded to display pixel art via a bitmap input.
+
 ## TODOs
 
 - [x] Add GH Page example
