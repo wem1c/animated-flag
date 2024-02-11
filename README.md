@@ -10,15 +10,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-    <script src="./animated-flag.js"></script>
-	<animated-flag></animated-flag>
-	<h3 align="center">&lt;animated-flag> web component</h3>
-</div>
-
-<!-- ROADMAP -->
+# &lt;animated-flag> web component
 
 ## TODOs
 
